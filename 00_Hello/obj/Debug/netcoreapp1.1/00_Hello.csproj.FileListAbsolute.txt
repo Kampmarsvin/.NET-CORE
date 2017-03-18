@@ -1,0 +1,4 @@
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/00_Hello/bin/Debug/netcoreapp1.1/00_Hello.deps.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/00_Hello/bin/Debug/netcoreapp1.1/00_Hello.runtimeconfig.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/00_Hello/bin/Debug/netcoreapp1.1/00_Hello.runtimeconfig.dev.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/00_Hello/obj/Debug/netcoreapp1.1/00_Hello.AssemblyInfo.cs
