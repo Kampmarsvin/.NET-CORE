@@ -1,0 +1,4 @@
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/01_Calculator/bin/Debug/netcoreapp1.1/01_Calculator.deps.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/01_Calculator/bin/Debug/netcoreapp1.1/01_Calculator.runtimeconfig.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/01_Calculator/bin/Debug/netcoreapp1.1/01_Calculator.runtimeconfig.dev.json
+/Users/mariastochholm/Desktop/Simon/DotnetCore/00_Hello/01_Calculator/obj/Debug/netcoreapp1.1/01_Calculator.AssemblyInfo.cs
